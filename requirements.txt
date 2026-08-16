@@ -14,3 +14,19 @@ langchain_tavily
 
 langchain-mcp-adapters
 mcp
+
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+pandas
+msoffcrypto-tool
+rank_bm25
+ragas
+pandas-stubs
+groq
+sentence-transformers
+
+pageindex

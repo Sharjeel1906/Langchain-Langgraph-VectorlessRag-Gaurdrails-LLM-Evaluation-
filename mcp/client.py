@@ -32,11 +32,12 @@ async def main():
                        "content": "First use the add tool to calculate 3 + 5. After you get the result, use the multiply tool to multiply that result by 123."
                        }]}
     )
-    weather_reponse = await agent.ainvoke({"messages": [{"role": "user",                "content": "Use the get_weather tool to get the weather for California. Do not answer using your own knowledge."
-}]})
+    weather_response = await agent.ainvoke({"messages": [{"role": "user",
+                                                         "content": "Use the get_weather tool to get the weather for California. Do not answer using your own knowledge."
+                                                         }]})
 
     print("Math response: ", math_response["messages"][-1].content)
-    print("Weather response : ",weather_reponse["messages"][-1].content)
+    print("Weather response : ", weather_response["messages"][-1].content)
 
 
 asyncio.run(main())

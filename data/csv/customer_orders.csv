@@ -1,0 +1,13 @@
+OrderID,CustomerName,Category,Product,Quantity,UnitPrice,TotalAmount,OrderDate,Status
+1001,Alice Johnson,Electronics,Wireless Headphones,2,79.99,159.98,2026-01-15,Delivered
+1002,Bob Smith,Furniture,Ergonomic Chair,1,249.5,249.5,2026-01-16,Delivered
+1003,Charlie Brown,Electronics,Mechanical Keyboard,1,119.0,119.0,2026-01-18,Delivered
+1004,Diana Prince,Office Supplies,Notebook Set,5,12.5,62.5,2026-01-20,Shipped
+1005,Evan Wright,Electronics,4K Monitor,2,329.99,659.98,2026-01-22,Delivered
+1006,Fiona Gallagher,Furniture,Standing Desk,1,450.0,450.0,2026-01-25,Processing
+1007,George Clark,Office Supplies,Desk Organizer,3,18.25,54.75,2026-01-28,Delivered
+1008,Hannah Abbott,Electronics,USB-C Hub,2,45.0,90.0,2026-02-01,Shipped
+1009,Ian Malcolm,Furniture,Bookshelf,1,135.0,135.0,2026-02-03,Delivered
+1010,Julia Roberts,Office Supplies,Pen Pack (12x),10,8.99,89.9,2026-02-05,Delivered
+1011,Kevin Bacon,Electronics,Portable SSD 1TB,1,109.99,109.99,2026-02-07,Shipped
+1012,Laura Croft,Office Supplies,Stapler Heavy Duty,2,15.5,31.0,2026-02-08,Processing
