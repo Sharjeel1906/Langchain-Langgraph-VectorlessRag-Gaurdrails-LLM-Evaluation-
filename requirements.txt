@@ -30,3 +30,6 @@ groq
 sentence-transformers
 
 pageindex
+
+deepagents
+tavily-python
